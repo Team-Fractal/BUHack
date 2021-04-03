@@ -1,0 +1,75 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Kamalpreet-3223",
+      "name": "Kamalpreet-3223",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73851933?v=4",
+      "profile": "https://github.com/Kamalpreet-3223",
+      "contributions": [
+        "code",
+        "design",
+        "ideas",
+        "review",
+        "projectManagement"
+      ]
+    },
+    {
+      "login": "kanchi2438",
+      "name": "Kanchi Jain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68802268?v=4",
+      "profile": "https://www.linkedin.com/in/kanchi-jain-6475881b5",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "login": "Samikmalhotra",
+      "name": "Samik Malhotra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72279316?v=4",
+      "profile": "https://github.com/Samikmalhotra",
+      "contributions": [
+        "code",
+        "design",
+        "ideas",
+        "projectManagement",
+        "maintenance",
+        "talk"
+      ]
+    },
+    {
+      "login": "SupritBehera",
+      "name": "Suprit Behera",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17498636?v=4",
+      "profile": "https://github.com/SupritBehera",
+      "contributions": [
+        "code",
+        "design",
+        "talk"
+      ]
+    },
+    {
+      "login": "rohangupta91",
+      "name": "rohangupta91",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74780244?v=4",
+      "profile": "https://github.com/rohangupta91",
+      "contributions": [
+        "code",
+        "design",
+        "talk",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "BUHack",
+  "projectOwner": "Team-Fractal",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
