@@ -12,7 +12,7 @@ const Landing = ({isAuthenticated}) => {
         <section className="landing">
             <div className="dark-overlay">
                 <div className="landing-inner">
-                    <h1 className="x-large">Axios Cube</h1>
+                    <h1 className="x-large">Alpha Cube</h1>
                     <p className="lead">
                         Create a student profile, share posts and get help from
                         other student
