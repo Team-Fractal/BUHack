@@ -1,4 +1,4 @@
-# Alpha - Team Fragmentation Fault
+# Alpha - Team Fractal
 
 > Alpha is not just a product but an ecosystem of tools to aid the entire university experience in both the academic and non academic sphere. The Alpha ecosystem consists of four major subparts : Alpha Sphere, Alpha Cube, Alpha Square and Axios Circle.
 
@@ -7,7 +7,7 @@ In the sphere of university education, especially in such turbulent times due to
 
 ## Screenshots 
 
-[![image.png](https://i.postimg.cc/4dRPS128/image.png)](https://postimg.cc/8FwLFLSW)
+[![image.png](https://i.postimg.cc/J4MH4CLC/image.png)](https://postimg.cc/MX3pd4H9)
 [![image.png](https://i.postimg.cc/02TGCBgt/image.png)](https://postimg.cc/jLhJxvSN)
 [![image.png](https://i.postimg.cc/sXH7Gn94/image.png)](https://postimg.cc/34pdPFqk)
 
@@ -25,7 +25,7 @@ It is built using HTML/CSS/JS on the frontend and Django on the backend.
 ```bash
 $ # Get a local copy of the code
 $ git clone https://github.com/Team-Fractal/BUHack
-$ cd BUHack/'Axios Sphere'
+$ cd BUHack/'Alpha Sphere'
 $
 $ # Virtualenv modules installation
 $ virtualenv env
